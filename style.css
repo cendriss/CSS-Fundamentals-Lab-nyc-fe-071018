@@ -20,6 +20,11 @@ a {
   background: lightgray;
 }
 
+figcaption {
+  font-size: .875em;
+  text-align: center;
+}
+
 p#featured-property {
    width: 800px;
 }
