@@ -30,7 +30,7 @@ p{
    text-align: center;
 }
 
-div {
+h3~ {
     float: left;
     display: block;
     color: #f2f2f2;
