@@ -30,7 +30,7 @@ p{
    text-align: center;
 }
 
-h3~p {
+footer {
     float: left;
     display: inline-block;
     color: #f2f2f2;
