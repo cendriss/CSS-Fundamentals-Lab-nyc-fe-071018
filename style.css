@@ -32,6 +32,7 @@ p{
 
 div {
     display: inline-block;
+    float:left;
     text-align: center;
     padding: 10px;
 }
